@@ -13,4 +13,4 @@ Java course design, a bank deposit and withdrawal management system. Support TCP
 
 要求：上述功能采用采用服务器程序实现，并采用多线程方式实现，所有的操作通过客户端输入实现。要求尽可能采用类设计封装。
 
-PS:此处的对文件操作我该为了连接数据库并对数据库操作。
+**PS:此处的对文件操作我该为了连接数据库并对数据库操作。**
